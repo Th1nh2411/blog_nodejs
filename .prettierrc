@@ -1,4 +1,12 @@
 {
+    "overrides": [
+        {
+            "files": "*.hbs",
+            "options": {
+                "singleQuote": false
+            }
+        }
+    ],
     "arrowParens": "always",
     "bracketSameLine": false,
     "bracketSpacing": true,
